@@ -72,7 +72,8 @@ section.section h1 {
 }
 
 .nav-main,
-section.section {
+section.section,
+section.social {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -178,7 +179,23 @@ footer.footer#footer {
 }
 
 /* SOCIAL */
+section.social,
+section.social .links-social,
+section.social a {
+    /* border: solid 1px white; */
+}
 
+section.social .links-social {
+    display: flex;
+}
+
+section.social .links-social a {
+    margin: 10px;
+}
+
+section.social a {
+      
+}
 
 /* NAV RIGHT */
 
