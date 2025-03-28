@@ -156,7 +156,7 @@ header.header#header a#logo {
 }
 
 .nav-main.show {
-    transform:  translateX(1000px);
+    transform:  translateX(2000px);
     transition: transform .3s ease-in-out;   
 } 
 
@@ -210,7 +210,14 @@ section.section h1 {
 /* CONTACT */
 
 /* NAV MEDIA QUERIES */
+@media only screen and (min-width: 1400px) {
 
+    /* BARS MENU and CLOSE MENU*/
+    .menu-btn#menu-btn {
+        right: 3%;
+        
+    }
+}
 
 
 
