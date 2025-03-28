@@ -118,7 +118,7 @@ header.header#header a#logo {
 .menu-btn#menu-btn {
     position: absolute;
     position: fixed;
-    right: 4%;
+    right: 7%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,6 +209,7 @@ section.section h1 {
 /* PROJECTS */
 /* CONTACT */
 
+/* NAV MEDIA QUERIES */
 
 
 
