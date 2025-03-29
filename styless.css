@@ -99,7 +99,7 @@ section.section p,
 header.header#header {
     position: fixed;
     width: 100%;
-    height: 10%;
+    height: 15%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -118,7 +118,7 @@ header.header#header a#logo {
 .menu-btn#menu-btn {
     position: absolute;
     position: fixed;
-    right: 7%;
+    right: 8%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -131,8 +131,8 @@ header.header#header a#logo {
 }
 
 #close-btn {
-    position: absolute;
-    right: 2%;
+    /* position: absolute;
+    right: 10%; */
     display: none;
 }
 
