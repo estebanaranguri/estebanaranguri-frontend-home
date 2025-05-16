@@ -87,7 +87,7 @@ section.section {
 }
 
 header.header#header a#logo,
-section.section p, 
+section.section#showcase p, 
 .nav-menu li a {
     font-size: 1.7rem;
 } 
